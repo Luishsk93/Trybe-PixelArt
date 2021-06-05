@@ -1,4 +1,4 @@
-# ToDoList
+# PixelArt
 Projeto do Bloco 5 da Trybe - Quadro de pintura em pixels
 
 ## Habilidades desenvolvidas:
